@@ -1,0 +1,10 @@
+D:\Шенгальс_Пр-24\proverka\bin\Debug\proverka.exe.config
+D:\Шенгальс_Пр-24\proverka\bin\Debug\proverka.exe
+D:\Шенгальс_Пр-24\proverka\bin\Debug\proverka.pdb
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.csproj.AssemblyReference.cache
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.Form1.resources
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.Properties.Resources.resources
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.csproj.GenerateResource.cache
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.csproj.CoreCompileInputs.cache
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.exe
+D:\Шенгальс_Пр-24\proverka\obj\Debug\proverka.pdb
