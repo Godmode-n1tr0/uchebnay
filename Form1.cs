@@ -184,14 +184,13 @@ namespace proverka
         private void ShowResults()
         {
             double percentage = (double)correctAnswers / Question.AllQuestions.Count * 100;
-            this.Hide();
             using (StreamWriter file = File.AppendText("stats.txt"))
             {
                 file.WriteLine($"{label2.Text} {label3.Text} {label4.Text}");
                 file.WriteLine($"{label5.Text}");
                 file.WriteLine($"{percentage}%");
             }
-
+            this.Hide();
         }
     }
 }
